@@ -1,6 +1,6 @@
 # Hi there, I'm Kesiena Selahor! 👋
 
-![Banner Image](https://drive.google.com/file/d/1hkw3wF9Hmq9_WPrC_zRaM3e9pGVNZvsI/view?usp=drive_link)
+![Banner Image](https://github.com/KesienaSelahor/KesienaSelahor/blob/main/Kesiena%20Selahor%20Github%20banner.jpg)
 
 ## About Me 🚀
 
