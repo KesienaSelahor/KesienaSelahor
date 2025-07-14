@@ -1,7 +1,6 @@
 # Hi there, I'm Kesiena Selahor! 👋
 
-![Banner Image](your_banner_image_url_here)
-*Tip: Consider creating a simple banner image related to cybersecurity, IT, or problem-solving. Free tools like Canva can help!*
+![Banner Image](https://drive.google.com/file/d/1hkw3wF9Hmq9_WPrC_zRaM3e9pGVNZvsI/view?usp=drive_link)
 
 ## About Me 🚀
 
@@ -27,19 +26,15 @@ I'm an **analytical and entrepreneurial IT Support & Cybersecurity Professional*
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF5733?style=flat-square&logoColor=white)
 ![Team Leadership](https://img.shields.io/badge/-Team%20Leadership-6C5B7B?style=flat-square&logoColor=white)
 
-*Note: I've replaced the example skill badges with relevant ones from your resume. To create more badges or find specific logos, use [this repository](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
 ## Featured Projects 💻
 
 ### Threat Detection Mini-Lab (Suricata)
 
-![Threat Detection Mini-Lab Screenshot](your_threat_detection_project_screenshot_url)
-*Tip: Upload a screenshot of your lab environment or a relevant visualization here.*
+![Threat Detection Mini-Lab Screenshot](https://drive.google.com/file/d/10biffWl9UbD6IbPJIP4bbsmBLpYeUotl/view?usp=drive_link)
 
 [cite_start]**Threat Detection Mini-Lab** involved completing virtual labs focused on **threat identification, alert analysis, and practical application of SIEM (Security Information and Event Management) concepts.** [cite: 48] [cite_start]This project demonstrates my foundational skills in **network security, vulnerability exploration, and initial incident response**, utilizing tools like Kali Linux and Wireshark in simulated environments. [cite: 49]
 
 You can check out the repository [here](your_threat_detection_project_repository_link)
-*Tip: Create a GitHub repository for this project where you can document your setup, findings, and any scripts you used. Even if it's a lab, documenting it as a project is highly valuable.*
 
 ### Personal Tech Lab (Home Virtualization Project)
 
