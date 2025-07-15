@@ -1,16 +1,25 @@
-# Hi there, I'm Kesiena Selahor! 👋
-
 ![Banner Image](https://github.com/KesienaSelahor/KesienaSelahor/blob/main/Kesiena%20Selahor%20Github%20banner.jpg)
+
+# 👋 Hi, I'm Kesiena Selahor
+
+🔐 **Cybersecurity & IT Support Enthusiast**  
+🎓 Google Cybersecurity Certified | IT Support (In Progress)  
+🛠️ Building hands-on skills in system security, Linux, Python scripting, and threat detection.
+
+---
 
 ## About Me 🚀
 
-I'm an **analytical and entrepreneurial IT Support & Cybersecurity Professional** with hands-on experience in technical troubleshooting, systems administration, and threat identification. I love tackling complex problems, optimizing systems for security, and collaborating with diverse teams to deliver effective tech solutions.
+I'm an analytical and driven professional transitioning into the world of **cybersecurity and IT**. With a background in engineering and real-world experience supporting tech for NGOs, churches, and small businesses, I’ve now earned my **Google Cybersecurity Certificate** and I'm actively growing in IT Support and automation.
 
-- [cite_start]🌱 Currently learning: **Advanced IT Support concepts, Network Security deeper dives, and foundational AI Security principles (via Google IT Support Professional Certificate in progress)** [cite: 15]
-- 🔭 Working on: **Expanding my Threat Detection Mini-Lab (Suricata) for advanced alert analysis and simulating diverse network vulnerabilities. [cite_start]Also, enhancing my Personal Tech Lab (Home Virtualization Project) for advanced system hardening and network configuration practices.** [cite: 47, 50]
-- [cite_start]🌍 Languages: **English (Fluent)** [cite: 54]
-- [cite_start]📫 How to reach me: **kesienaselahor@gmail.com** [cite: 4]
-- ⚡ Fun fact: **I thrive on the thrill of starting new ventures and optimizing existing systems, always looking for a better way to do things!**
+I’m passionate about:
+- Protecting systems and data  
+- Simplifying complex ideas  
+- Learning by doing  
+- Building secure digital environments  
+- Helping others grow with tech
+
+---
 
 ## My Skills 🧠
 
@@ -26,27 +35,19 @@ I'm an **analytical and entrepreneurial IT Support & Cybersecurity Professional*
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF5733?style=flat-square&logoColor=white)
 ![Team Leadership](https://img.shields.io/badge/-Team%20Leadership-6C5B7B?style=flat-square&logoColor=white)
 
-## Featured Projects 💻
+## 📚 My GitHub Projects
 
-### Threat Detection Mini-Lab (Suricata)
+🧪 [google-cybersecurity-cert-labs](https://github.com/kesienaselahor/google-cybersecurity-cert-labs)  
+Hands-on labs from the Google Cybersecurity Certificate — Linux, SQL, SIEM, scripting, threat detection, and more.
 
-![Threat Detection Mini-Lab Screenshot](https://drive.google.com/file/d/10biffWl9UbD6IbPJIP4bbsmBLpYeUotl/view?usp=drive_link)
+---
 
-[cite_start]**Threat Detection Mini-Lab** involved completing virtual labs focused on **threat identification, alert analysis, and practical application of SIEM (Security Information and Event Management) concepts.** [cite: 48] [cite_start]This project demonstrates my foundational skills in **network security, vulnerability exploration, and initial incident response**, utilizing tools like Kali Linux and Wireshark in simulated environments. [cite: 49]
+## 📫 Let's Connect
 
-You can check out the repository [here](your_threat_detection_project_repository_link)
+- [LinkedIn](https://www.linkedin.com/in/kesienaselahor/)
+- ✉️ kesienaselahor@gmail.com   
+- 💬 Open to collaboration, mentorship, and entry-level cybersecurity opportunities
 
-### Personal Tech Lab (Home Virtualization Project)
+---
 
-![Personal Tech Lab Screenshot](your_personal_tech_lab_project_screenshot_url)
-*Tip: Upload a screenshot of your virtualized environment or a network diagram here.*
-
-[cite_start]**Personal Tech Lab** involved setting up a **virtualized network using Qwiklabs**, incorporating both Windows and Linux operating systems. [cite: 51] [cite_start]This project showcases my abilities in **troubleshooting, basic scripting, network configuration, and foundational system hardening practices**, including simulating phishing detection. [cite: 51, 52]
-
-You can check out the repository [here](your_personal_tech_lab_project_repository_link)
-*Tip: Similar to the above, create a repository for this project to document your setup, challenges, and solutions.*
-
-## Get in Touch 📬
-
-- [cite_start]**LinkedIn**: [https://www.linkedin.com/in/kesienaselahor/](https://www.linkedin.com/in/kesienaselahor/) [cite: 6]
-- [cite_start]**Email**: kesienaselahor@gmail.com [cite: 4]
+> *“Security is not a product, it's a process.” – Bruce Schneier*
