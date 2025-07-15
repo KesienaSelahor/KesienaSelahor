@@ -1,6 +1,6 @@
-![Banner Image](https://github.com/KesienaSelahor/KesienaSelahor/blob/main/Kesiena%20Selahor%20Github%20banner.jpg)
-
 # 👋 Hi, I'm Kesiena Selahor
+
+![Banner Image](https://github.com/KesienaSelahor/KesienaSelahor/blob/main/Kesiena%20Selahor%20Github%20banner.jpg)
 
 🔐 **Cybersecurity & IT Support Enthusiast**  
 🎓 Google Cybersecurity Certified | IT Support (In Progress)  
@@ -37,7 +37,7 @@ I’m passionate about:
 
 ## 📚 My GitHub Projects
 
-🧪 [google-cybersecurity-cert-labs](https://github.com/kesienaselahor/google-cybersecurity-cert-labs)  
+🧪 [google-cybersecurity-cert-labs](https://github.com/KesienaSelahor/google-cybersecurity-cert-labs)  
 Hands-on labs from the Google Cybersecurity Certificate — Linux, SQL, SIEM, scripting, threat detection, and more.
 
 ---
